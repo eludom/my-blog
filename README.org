@@ -1,0 +1,12 @@
+* README
+
+This is the source code of the http://blogs.port111.com, available at
+https://github.com/eludom/my-blog
+
+Borrowed/started with https://github.com/dmolina/dmolina.github.com.
+Thanks.x
+
+This blog has been done with [[http://gohugo.io/][Hugo]] and the great [[https://ox-hugo.netlify.com/][ox-hugo]].
+
+# The blog is automatically update following the steps in
+# https://www.martinkaptein.com/blog/hugo-with-travis-ci-on-gh-pages/

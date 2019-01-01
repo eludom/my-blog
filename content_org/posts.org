@@ -1,0 +1,20 @@
+#+HUGO_BASE_DIR: ../
+#+EXPORT_DATE:
+#+OPTIONS:  ^:nil
+#+HUGO_SECTION: post/
+#+HUGO_AUTO_SET_LASTMOD: t
+#+DATE: 2012-07-15
+
+* Emacs                                                              :@emacs:
+** DONE Migrating to a static blog with Hugo            :emacs:hugo:blogging:
+   CLOSED: <2019-01-01 Tue>
+   :PROPERTIES:
+   :EXPORT_FILE_NAME: emacs_ox_hugo
+   :END:
+
+I am in the process of migrating my personal blogging world to a
+static hosting setup using
+[[https://gohugo.io/][hugo]] and [[https://github.com/kaushalmodi/ox-hugo][ox-hugo]].  from the
+[[https://ox-hugo.scripter.co/doc/examples/][gallery of real world example websites generated with ox-hugo]] I
+selected that of [[https://dmolina.github.io/en/][Daniel Molina]] as a starting point.  Let's see how
+this goes....

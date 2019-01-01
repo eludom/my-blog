@@ -1,0 +1,17 @@
+#+HUGO_BASE_DIR: ../
+#+HUGO_SECTION: ./
+#+HUGO_AUTO_SET_LASTMOD: t
+#+EXPORT_FILE_NAME: about
+#+DATE: 2012-07-15
+* Personal                                                        :@personal:
+** About me
+   :PROPERTIES:
+   :EXPORT_FILE_NAME: about
+   :EXPORT_DATE: 2019-01-01
+   :HUGO_DATE: 2012-07-15
+   :END:
+
+- Backpacker
+- Latin and Classics Hobbiest
+- Computer and Network Security Veteran
+- A list of my publications http://port111.com/george/george_bib.html

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://blogs.port111.com/about/</loc>
+    <lastmod>2019-01-01T12:24:24-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://blogs.port111.com/post/emacs_ox_hugo/</loc>
+    <lastmod>2019-01-01T13:05:25-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://blogs.port111.com/tags/blogging/</loc>
+    <lastmod>2019-01-01T13:05:25-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://blogs.port111.com/categories/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://blogs.port111.com/tags/emacs/</loc>
+    <lastmod>2019-01-01T13:05:25-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://blogs.port111.com/categories/emacs/</loc>
+    <lastmod>2019-01-01T13:05:25-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://blogs.port111.com/</loc>
+    <lastmod>2019-01-01T12:24:24-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://blogs.port111.com/tags/hugo/</loc>
+    <lastmod>2019-01-01T13:05:25-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://blogs.port111.com/categories/personal/</loc>
+    <lastmod>2019-01-01T12:24:24-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://blogs.port111.com/post/</loc>
+    <lastmod>2019-01-01T13:05:25-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://blogs.port111.com/tags/</loc>
+    <lastmod>2019-01-01T13:05:25-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

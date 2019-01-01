@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Personal on George Jones&#39; blog</title>
+    <link>http://blogs.port111.com/categories/personal/</link>
+    <description>Recent content in Personal on George Jones&#39; blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>All text is licensed under a Creative Commons Attribution 4.0 International License.</copyright>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 -0500</lastBuildDate>
+    
+        <atom:link href="http://blogs.port111.com/categories/personal/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About me</title>
+      <link>http://blogs.port111.com/about/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 -0500</pubDate>
+      
+      <guid>http://blogs.port111.com/about/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Backpacker&lt;/li&gt;
+&lt;li&gt;Latin and Classics Hobbiest&lt;/li&gt;
+&lt;li&gt;Computer and Network Security Veteran&lt;/li&gt;
+&lt;li&gt;A list of my publications &lt;a href=&#34;http://port111.com/george/george%5Fbib.html&#34;&gt;http://port111.com/george/george%5Fbib.html&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

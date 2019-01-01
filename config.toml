@@ -1,0 +1,163 @@
+baseURL = "http://blogs.port111.com/"
+title = "George Jones' blog"
+languageName = "English"
+defaultContentLanguage = "en"
+languageCode = "en"
+theme = "future-imperfect"
+preserveTaxonomyNames = true
+MetaDataFormat = "yaml"
+SectionPagesMenu = "main"
+Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
+googleAnalytics = ""
+enableRobotsTXT = true
+pluralizeListTitles = false
+copyright = "All text is licensed under a Creative Commons Attribution 4.0 International License."
+
+#sectionPagesMenu = "main"
+
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[params]
+  favicon = ""
+  description = "My personal blog in Hugo"
+  facebook = ""
+  twitter = "https://twitter.com/eludom_"
+  instagram = ""
+  youtube = ""
+  github = ""
+  linkedin = ""
+  # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+  background_color_class = "bg-black"
+  featured_image = "/images/gohugo-default-sample-hero-image.jpg"
+    # This will appear on the top left of the navigation bar
+    navbarTitle          = "George Jones"
+    # set this to the section name if section is not post
+    viewMorePostLink     = "/post/"
+
+# Optional Params
+    # This will match the navbarTitle to the section of the website
+    dynamicTitles        = true
+    # RSS icon that appear on the sidebar, next to the social media buttons
+    rssAppearAtTop       = true
+    rssAppearAtBottom    = true
+    # Social media buttons that appear on the sidebar
+    socialAppearAtTop    = true
+    socialAppearAtBottom = true
+    categoriesByCount    = true
+    includeReadingTime   = true
+    # The set of favicons used are based on the write-up from this link:
+    # https://github.com/audreyr/favicon-cheat-sheet
+    # Please see the favicon partial template for more information
+    loadFavicon          = false
+    faviconVersion       = ""
+
+    # Disable showing the social sharing links on blog posts
+    socialShareDisabled = false
+
+    # Load custom CSS or JavaScript files. The variable is an array so that you
+    # can load multiple files if necessary. You can also load the standard theme
+    # files by adding the value, "default".
+    # customCSS            = ["default", "/path/to/file"]
+    # customJS             = ["default", "/path/to/file"]
+
+    customCSS            = ["default"]
+    customJS             = ["default"]
+
+# Disqus will take priority over staticman due to its ease of use. Feel free to check out both and decide.
+[params.staticman]
+    staticman = false
+    username  = ""
+    repo      = ""
+    branch    = ""
+
+# parms.intro will appear on the sidebar
+# This is optional, but it's suggested to use
+[params.intro]
+    header    = "George Jones"
+    paragraph = "Personal Blog"
+    about     = "<ul><li>Backpacker</li><li>Latin and Classics Hobbiest</li><li><a href='http://port111.com/george/george_bib.html' target='_blank'>My Publications</a></li><li>Computer and Network Security Veteran</li></ul>"
+
+
+# This will also appear on the sidebar.
+# A width of less than 100px is recommended
+# This is optional
+[params.intro.pic]
+    src       = "/img/main/gmjBWLighter.jpg"
+    # modify your picture in the shape of a circle or
+    # future imperfect's hexagonal shape
+    circle    = true
+    imperfect = true
+    width     = "200"
+    alt       = "George Jones"
+
+
+# Adjust the amount of recent posts on the sidebar.
+# This is optional. The default value 5 will be used
+[params.postAmount]
+    sidebar = 2
+
+[Languages.en]
+title = "George Jones' blog"
+languageName = "English"
+languageCode = "en"
+
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  identifier = "fa fa-home"
+  weight = 1
+
+[[menu.main]]
+  name = "Categories"
+  url = "/categories/"
+  identifier = "fa fa-sitemap"
+  weight = 2
+
+[[menu.main]]
+  name = "Blog"
+  url = "/post/"
+  identifier = "fa fa-newspaper-o"
+  weight = 3
+
+[[menu.main]]
+  name = "About"
+  url = "/about/"
+  identifier = "fa fa-id-card-o"
+  weight = 4
+
+# Insert your username and the icon will apear on the page as long as
+# socialAppearAtTop or socialAppearAtBottom is set to true in the params area
+# The social media icons will appear on the sidebar
+[social]
+    github          = "eludom"
+    bitbucket       = ""
+    jsfiddle        = ""
+    codepen         = ""
+    foursquare      = ""
+    dribbble        = ""
+    deviantart      = ""
+    behance         = ""
+    flickr          = ""
+    instagram       = ""
+    youtube         = ""
+    vimeo           = ""
+    vine            = ""
+    medium          = ""
+    wordpress       = ""
+    tumblr          = ""
+    xing            = ""
+    linkedin        = "georgemjones"
+    slideshare      = ""
+    stackoverflow   = ""
+    reddit          = ""
+    pinterest       = ""
+    googleplus      = ""
+    facebook        = ""
+    facebook_admin  = ""
+    twitter_domain  = ""
+    twitter         = "eludom"
+    email           = "gmj@port111.com"
